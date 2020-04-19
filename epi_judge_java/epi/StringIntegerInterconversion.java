@@ -28,7 +28,7 @@ USEFUL: https://stackoverflow.com/questions/5444611/math-abs-returns-wrong-value
   }
 
   public static int stringToInt(String s) {
-    int result = 0;
+    int result = 0;String test ="";
     int multiplier = 1;
     boolean isNegative = false;
     if(s.charAt(0) == '-'){
