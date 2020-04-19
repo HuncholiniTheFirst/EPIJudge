@@ -65,7 +65,7 @@ problem_mapping = {
                 "passed": 0,
                 "total": 10000
             },
-            "Python: closest_int_same_weight.py": { 
+            "Python: closest_int_same_weight.py": {
                 "passed": 0,
                 "total": 10000
             }
@@ -190,7 +190,7 @@ problem_mapping = {
                 "total": 204
             },
             "Java: DutchNationalFlag.java": {
-                "passed": 0,
+                "passed": 204,
                 "total": 204
             },
             "Python: dutch_national_flag.py": {
@@ -1202,7 +1202,7 @@ problem_mapping = {
                 "total": 10
             },
             "Java: TreeRightSibling.java": {
-                "passed": 0,
+                "passed": 2,
                 "total": 10
             },
             "Python: tree_right_sibling.py": {
